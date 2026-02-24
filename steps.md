@@ -32,7 +32,7 @@ my-vanilla-js-project/
 ├── vite.config.js
 └── package.json
 
-## Step 1: Don't Forget To LIKE SHARE & SUBSCRIBE TO THAPA TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/thapatechnical
+## Step 1: Don't Forget To LIKE SHARE & SUBSCRIBE TO Ansh TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/Anshtechnical
 
 ====================================================================
 **_ Steps to Create a Function for Displaying Product Containers _**

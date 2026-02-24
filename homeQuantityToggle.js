@@ -21,7 +21,7 @@ export const homeQuantityToggle = (event, id, stock) => {
     }
   }
 
-  //todo Don't Forget To LIKE SHARE & SUBSCRIBE TO THAPA TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/thapatechnical
+  //todo Don't Forget To LIKE SHARE & SUBSCRIBE TO Ansh TECHNCIAL YOUTUBE CHANNEL 👉 https://www.youtube.com/Anshtechnical
 
   productQuantity.innerText = quantity;
   console.log(quantity);
